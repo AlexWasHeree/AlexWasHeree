@@ -28,3 +28,13 @@
 <img align="center" alt="Victor-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Victor-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
+
+<br></br>
+
+### My Socials
+  
+<div> 
+  <a href="https://www.linkedin.com/in/victor-alexandre-cavalcanti-macedo-2344a8245" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5583986463470" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" target="_blank"></a>
+</div>
+
