@@ -1,40 +1,67 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b579f9&height=120&section=header"/>
+<!-- GitHub Profile README -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Victor+Alexandre;I'm+23+years+old;Currently+studiyng+computer+science+at+UFCG+;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:b579f9,100:00bfbf&height=110&section=header"/>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlexWasHeree&show_icons=true&count_private=true&hide_border=true&title_color=CAA0FB&icon_color=CAA0FB&text_color=c9d1d9&bg_color=0d1117" alt="Victor Alexandre's github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexWasHeree&layout=compact&hide_border=true&title_color=CAA0FB&text_color=c9d1d9&bg_color=0d1117" />
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=900&lines=Alex+(Victor+Alexandre);Software+Engineer;Building+things+with+code" />
+</a>
+
 </div>
 
-<br></br>
-<br></br>
+---
 
-### My Skills
- 
-<div style="border:orange; border-width:5px; border-style:solid;">
-<img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Victor-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-<img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Victor-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="center" alt="Victor-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="center" alt="Victor-StyledComponents" height="30" width="40" src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png">
+## About me
 
-<img align="center" alt="Victor-sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
-<img align="center" alt="Victor-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img align="center" alt="Victor-Springboot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-<img align="center" alt="Victor-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="center" alt="Victor-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Victor-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+Software Engineer focused on building reliable systems and improving through practice.  
+I enjoy learning by coding, breaking things, and refining solutions over time.
+
+Currently studying Computer Science and working on personal projects.
+
+---
+
+<p align="center">
+  <img width="380" src="https://raw.githubusercontent.com/timburgan/timburgan/main/assets/board-r1qkbnrppp...svg" />
+</p>
+
+---
+
+## Tech stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00bfbf" />
+<img src="https://img.shields.io/badge/NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=b579f9" />
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00bfbf" />
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=7c3aed" />
+<img src="https://img.shields.io/badge/Prisma-0d1117?style=for-the-badge&logo=prisma&logoColor=c9d1d9" />
+<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00bfbf" />
+<br/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=b579f9" />
+
 </div>
 
-<br></br>
+---
 
-### My Socials
-  
-<div> 
-  <a href="https://www.linkedin.com/in/victor-alexandre-cavalcanti-macedo-2344a8245" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5583986463470" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" target="_blank"></a>
+<div align="center">
+
+<img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=AlexWasHeree&show_icons=true&hide_border=true&title_color=b579f9&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+<img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexWasHeree&layout=compact&hide_border=true&title_color=b579f9&text_color=c9d1d9&bg_color=0d1117" />
+
 </div>
 
+---
+
+## Contact
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/victor-alexandre-cavalcanti-macedo-2344a8245">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00bfbf" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5583986463470">
+    <img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=b579f9" />
+  </a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfbf,50:b579f9,100:7c3aed&height=110&section=footer"/>
