@@ -51,15 +51,6 @@ Currently studying Computer Science and working on personal projects.
 
 ---
 
-<div align="center">
-
-<img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=AlexWasHeree&show_icons=true&hide_border=true&title_color=b579f9&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
-<img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexWasHeree&layout=compact&hide_border=true&title_color=b579f9&text_color=c9d1d9&bg_color=0d1117" />
-
-</div>
-
----
-
 ## Contact
 
 <div align="center">
