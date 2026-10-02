@@ -14,11 +14,10 @@
 
 ## About me
 
-Backend-focused Full-Stack Software Engineer, working across the whole cycle — from architecture design to production deploys.  
+Backend-focused Full-Stack Software Engineer, working across the whole cycle from architecture design to production deploys.  
 I build APIs and distributed systems with TypeScript (Node.js/Deno) and Go, and integrate LLMs and data pipelines into production workflows.
 
-- Currently building **NoteCast**, a native macOS Markdown editor (Swift/AppKit) — solo, from architecture to launch
-- Previously: edge APIs at **Deco.cx**, CI/CD and industrial data systems at **SPLab/UFCG**
+- Currently building **NoteCast Editor**, a native macOS Markdown editor (Swift/AppKit) from architecture to launch
 - B.Sc. in Computer Science at **UFCG** (2021 – 2027)
 - Open to backend / fullstack roles
 
