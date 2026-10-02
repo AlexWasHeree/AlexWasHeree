@@ -41,7 +41,7 @@ Currently studying Computer Science and working on personal projects.
 <img src="https://img.shields.io/badge/Hono-0d1117?style=for-the-badge&logo=hono&logoColor=00bfbf" />
 </p>
 
-<p><b>Frontend & Apple</b><br/>
+<p><b>Frontend</b><br/>
 <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00bfbf" />
 <img src="https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular&logoColor=b579f9" />
 <img src="https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=00bfbf" />
