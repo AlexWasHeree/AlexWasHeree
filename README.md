@@ -14,10 +14,13 @@
 
 ## About me
 
-Software Engineer focused on building reliable systems and improving through practice.  
-I enjoy learning by coding, breaking things, and refining solutions over time.
+Backend-focused Full-Stack Software Engineer, working across the whole cycle — from architecture design to production deploys.  
+I build APIs and distributed systems with TypeScript (Node.js/Deno) and Go, and integrate LLMs and data pipelines into production workflows.
 
-Currently studying Computer Science and working on personal projects.
+- Currently building **NoteCast**, a native macOS Markdown editor (Swift/AppKit) — solo, from architecture to launch
+- Previously: edge APIs at **Deco.cx**, CI/CD and industrial data systems at **SPLab/UFCG**
+- B.Sc. in Computer Science at **UFCG** (2021 – 2027)
+- Open to backend / fullstack roles
 
 ---
 
@@ -85,11 +88,17 @@ Currently studying Computer Science and working on personal projects.
 ## Contact
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/victor-alexandre-cavalcanti-macedo-2344a8245">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00bfbf" />
+  <a href="https://victoralex-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=c9d1d9" />
+  </a>
+  <a href="https://www.linkedin.com/in/victoralexandredev">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwYmZiZiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4=" />
+  </a>
+  <a href="mailto:alexvictor1904@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=b579f9" />
   </a>
   <a href="https://api.whatsapp.com/send?phone=5583986463470">
-    <img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=b579f9" />
+    <img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=00bfbf" />
   </a>
 </div>
 
