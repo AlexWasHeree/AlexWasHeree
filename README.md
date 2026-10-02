@@ -4,9 +4,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=900&lines=Alex+(Victor+Alexandre);Software+Engineer;Building+things+with+code" />
-</a>
+<img width="100%" src="assets/terminal.svg" alt="alex@github:~$ whoami — Victor Alexandre (Alex), Software Engineer, Backend / Fullstack" />
 
 </div>
 

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="294" viewBox="0 0 900 294" role="img" aria-label="Terminal: Victor Alexandre, Software Engineer, Backend / Fullstack">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:15px;white-space:pre}
+@keyframes show{from{opacity:0}to{opacity:1}}
+@keyframes hide{to{opacity:0}}
+@keyframes blink{50%{opacity:0}}
+.blink{animation:blink 1s step-end infinite}
+.l1{animation:show 0s 0.60s both}
+.t1{animation:type1 0.33s steps(6) 0.60s both}@keyframes type1{to{transform:translateX(54px)}}
+.c1{animation:hide 0s 1.13s both}
+.l2{animation:show 0s 1.13s both}
+.l3{animation:show 0s 1.58s both}
+.t3{animation:type3 0.71s steps(13) 1.58s both}@keyframes type3{to{transform:translateX(117px)}}
+.c3{animation:hide 0s 2.50s both}
+.l4{animation:show 0s 2.50s both}
+.l5{animation:show 0s 2.95s both}
+.t5{animation:type5 0.60s steps(11) 2.95s both}@keyframes type5{to{transform:translateX(99px)}}
+.c5{animation:hide 0s 3.75s both}
+.l6{animation:show 0s 3.75s both}
+.l7{animation:show 0s 4.20s both}
+</style>
+<rect x="1" y="1" width="898" height="292" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M1 13a12 12 0 0 1 12-12h874a12 12 0 0 1 12 12v23H1z" fill="#161b22"/>
+<line x1="1" y1="36" x2="899" y2="36" stroke="#30363d"/>
+<circle cx="24" cy="18.5" r="6" fill="#ff5f57"/><circle cx="44" cy="18.5" r="6" fill="#febc2e"/><circle cx="64" cy="18.5" r="6" fill="#28c840"/>
+<text x="450.0" y="23" fill="#8b949e" text-anchor="middle" style="font-size:13px">alex — zsh</text>
+<g class="l1"><text x="28" y="78" textLength="135" lengthAdjust="spacingAndGlyphs"><tspan fill="#b579f9">alex@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#00bfbf">~</tspan><tspan fill="#8b949e">$ </tspan></text><text x="163" y="78" fill="#e6edf3" textLength="54" lengthAdjust="spacingAndGlyphs">whoami</text><g class="t1"><rect class="c1" x="163" y="65" width="9" height="18" fill="#00bfbf"/><rect x="172" y="61" width="74" height="23" fill="#0d1117"/></g></g>
+<g class="l2"><text x="28" y="106" fill="#c9d1d9" textLength="585" lengthAdjust="spacingAndGlyphs">Victor Alexandre (Alex) · Software Engineer — Backend / Fullstack</text></g>
+<g class="l3"><text x="28" y="140" textLength="135" lengthAdjust="spacingAndGlyphs"><tspan fill="#b579f9">alex@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#00bfbf">~</tspan><tspan fill="#8b949e">$ </tspan></text><text x="163" y="140" fill="#e6edf3" textLength="117" lengthAdjust="spacingAndGlyphs">cat stack.txt</text><g class="t3"><rect class="c3" x="163" y="127" width="9" height="18" fill="#00bfbf"/><rect x="172" y="123" width="137" height="23" fill="#0d1117"/></g></g>
+<g class="l4"><text x="28" y="168" fill="#c9d1d9" textLength="549" lengthAdjust="spacingAndGlyphs">TypeScript · Go · Node.js / Deno · Kafka · PostgreSQL · Swift</text></g>
+<g class="l5"><text x="28" y="202" textLength="135" lengthAdjust="spacingAndGlyphs"><tspan fill="#b579f9">alex@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#00bfbf">~</tspan><tspan fill="#8b949e">$ </tspan></text><text x="163" y="202" fill="#e6edf3" textLength="99" lengthAdjust="spacingAndGlyphs">cat now.txt</text><g class="t5"><rect class="c5" x="163" y="189" width="9" height="18" fill="#00bfbf"/><rect x="172" y="185" width="119" height="23" fill="#0d1117"/></g></g>
+<g class="l6"><text x="28" y="230" fill="#c9d1d9" textLength="630" lengthAdjust="spacingAndGlyphs">building NoteCast Editor — native macOS Markdown editor (Swift/AppKit)</text></g>
+<g class="l7"><text x="28" y="264" textLength="135" lengthAdjust="spacingAndGlyphs"><tspan fill="#b579f9">alex@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#00bfbf">~</tspan><tspan fill="#8b949e">$ </tspan></text><rect class="blink" x="163" y="251" width="9" height="18" fill="#00bfbf"/></g>
+</svg>
